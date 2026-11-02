@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "agency-agents-indonesia",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Kumpulan workflow pakar AI berbahasa Indonesia untuk produk, engineering, keamanan, pemasaran, dan quality assurance.",
   "author": {
     "name": "Adaptasi komunitas Agency Agents",
@@ -45,6 +45,5 @@
         "logo": "./assets/logo-light.svg"
       }
     }
-  },
-  "skills": "./skills/"
+  }
 }

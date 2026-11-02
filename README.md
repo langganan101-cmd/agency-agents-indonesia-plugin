@@ -15,7 +15,7 @@ Plugin Skills berbahasa Indonesia yang dikurasi dari proyek [Agency Agents](http
 
 ## Instalasi
 
-Unggah ZIP ini melalui alur impor plugin yang tersedia di ChatGPT/Codex, atau gunakan sebagai sumber plugin lokal sesuai dokumentasi host. Plugin ini tidak menyertakan MCP server dan tidak meminta kredensial.
+Paket ini menggunakan format portable Agent Plugins: `plugin.json` berada di root, sedangkan Skill ditemukan otomatis dari folder `skills/`. Unggah ZIP melalui alur impor yang tersedia di host atau gunakan sebagai sumber plugin lokal sesuai dokumentasi ChatGPT/Codex. Paket ini tidak menyertakan MCP server dan tidak meminta kredensial.
 
 ## Catatan
 
