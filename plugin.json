@@ -25,7 +25,7 @@
         "shortDescription": "Pakar AI berbahasa Indonesia",
         "longDescription": "Plugin berisi workflow pakar AI berbahasa Indonesia yang dikurasi dari proyek Agency Agents. Membantu perencanaan produk, pengembangan frontend dan backend, audit keamanan defensif, tinjauan kode, strategi pertumbuhan, serta gerbang kualitas rilis. Setiap Skill memberi alur kerja dan format keluaran yang jelas; tool dan akses tetap mengikuti kemampuan serta izin host yang digunakan.",
         "developerName": "Adaptasi komunitas Agency Agents",
-        "category": "Developer tools",
+        "category": "Developer Tools",
         "capabilities": [
           "Perencanaan produk dan PRD",
           "Pengembangan frontend dan backend",
