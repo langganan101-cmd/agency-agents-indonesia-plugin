@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Agency Agents ID">
+  <rect width="512" height="512" rx="112" fill="#17152B"/>
+  <g fill="none" stroke="#B7AEFF" stroke-width="18" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M256 112 368 176 368 304 256 368 144 304 144 176Z"/>
+    <path d="M256 112V70M368 176l38-22M368 304l38 22M256 368v44M144 304l-38 22M144 176l-38-22"/>
+    <path d="M202 292 256 188 310 292M222 254h68"/>
+  </g>
+  <g fill="#B7AEFF">
+    <circle cx="256" cy="70" r="13"/><circle cx="406" cy="154" r="13"/>
+    <circle cx="406" cy="330" r="13"/><circle cx="256" cy="412" r="13"/>
+    <circle cx="106" cy="330" r="13"/><circle cx="106" cy="154" r="13"/>
+  </g>
+</svg>
