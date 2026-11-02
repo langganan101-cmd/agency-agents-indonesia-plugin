@@ -45,5 +45,6 @@
         "logo": "./assets/logo-light.svg"
       }
     }
-  }
+  },
+  "skills": "./skills/"
 }
