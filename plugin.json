@@ -42,7 +42,8 @@
         ],
         "brandColor": "#5B4BDB",
         "composerIcon": "./assets/icon.svg",
-        "logo": "./assets/logo.svg"
+        "logo": "./assets/logo-light.svg",
+        "logoDark": "./assets/logo-dark.svg"
       }
     }
   }
