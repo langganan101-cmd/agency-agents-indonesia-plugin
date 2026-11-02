@@ -1,0 +1,49 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "agency-agents-indonesia",
+  "version": "0.1.0",
+  "description": "Kumpulan workflow pakar AI berbahasa Indonesia untuk produk, engineering, keamanan, pemasaran, dan quality assurance.",
+  "author": {
+    "name": "Adaptasi komunitas Agency Agents",
+    "url": "https://github.com/msitarzewski/agency-agents"
+  },
+  "homepage": "https://github.com/msitarzewski/agency-agents",
+  "repository": "https://github.com/msitarzewski/agency-agents",
+  "license": "MIT",
+  "keywords": [
+    "bahasa-indonesia",
+    "agent-skills",
+    "engineering",
+    "product",
+    "security",
+    "growth"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Agency Agents ID",
+        "shortDescription": "Tim pakar AI berbahasa Indonesia",
+        "longDescription": "Plugin berisi workflow pakar AI berbahasa Indonesia yang dikurasi dari proyek Agency Agents. Membantu perencanaan produk, pengembangan frontend dan backend, audit keamanan defensif, tinjauan kode, strategi pertumbuhan, serta gerbang kualitas rilis. Setiap Skill memberi alur kerja dan format keluaran yang jelas; tool dan akses tetap mengikuti kemampuan serta izin host yang digunakan.",
+        "developerName": "Adaptasi komunitas Agency Agents",
+        "category": "Developer tools",
+        "capabilities": [
+          "Perencanaan produk dan PRD",
+          "Pengembangan frontend dan backend",
+          "Audit keamanan defensif",
+          "Tinjauan kode berbasis bukti",
+          "Strategi pertumbuhan dan eksperimen",
+          "Quality gate dan kesiapan rilis",
+          "Operasi workspace yang aman"
+        ],
+        "defaultPrompt": [
+          "Bantu saya menyusun PRD produk.",
+          "Tinjau kode ini dan temukan bug penting.",
+          "Audit kesiapan rilis berdasarkan bukti."
+        ],
+        "brandColor": "#5B4BDB",
+        "composerIcon": "./assets/icon.svg",
+        "logo": "./assets/logo.svg"
+      }
+    }
+  }
+}
