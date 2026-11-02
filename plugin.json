@@ -7,8 +7,8 @@
     "name": "Adaptasi komunitas Agency Agents",
     "url": "https://github.com/msitarzewski/agency-agents"
   },
-  "homepage": "https://github.com/msitarzewski/agency-agents",
-  "repository": "https://github.com/msitarzewski/agency-agents",
+  "homepage": "https://github.com/langganan101-cmd/agency-agents-indonesia-plugin",
+  "repository": "https://github.com/langganan101-cmd/agency-agents-indonesia-plugin",
   "license": "MIT",
   "keywords": [
     "bahasa-indonesia",
@@ -22,7 +22,7 @@
     "com.openai": {
       "interface": {
         "displayName": "Agency Agents ID",
-        "shortDescription": "Tim pakar AI berbahasa Indonesia",
+        "shortDescription": "Pakar AI berbahasa Indonesia",
         "longDescription": "Plugin berisi workflow pakar AI berbahasa Indonesia yang dikurasi dari proyek Agency Agents. Membantu perencanaan produk, pengembangan frontend dan backend, audit keamanan defensif, tinjauan kode, strategi pertumbuhan, serta gerbang kualitas rilis. Setiap Skill memberi alur kerja dan format keluaran yang jelas; tool dan akses tetap mengikuti kemampuan serta izin host yang digunakan.",
         "developerName": "Adaptasi komunitas Agency Agents",
         "category": "Developer tools",
